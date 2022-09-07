@@ -1,4 +1,6 @@
 # construction-companies
 
-1. npm install
-2. npm start
+### Steps for running ### 
+1. nvm use
+2. npm install
+3. npm start
